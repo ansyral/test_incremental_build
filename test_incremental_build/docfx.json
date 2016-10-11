@@ -6,6 +6,7 @@
           "**/*.md"
         ],
         "exclude": [
+		  "_data/version.md",
           "**/obj/**",
           "site/**"
         ]
