@@ -5,7 +5,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "test_incremental_build",
-      "build_source_folder": "test_incremental_build",
+      "build_source_folder": "docs",
       "build_output_subfolder": "incremental/test",
       "locale": "en-us",
       "version": 0,
@@ -23,6 +23,12 @@
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "dependent_repositories": [
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
+      "branch": "master",
+      "branch_mapping": {}
+    },
     {
       "path_to_root": "_themes",
       "url": "https://github.com/fenxu/templates.docs.msft",
