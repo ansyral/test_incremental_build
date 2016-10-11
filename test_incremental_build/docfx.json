@@ -7,8 +7,7 @@
         ],
         "exclude": [
           "**/obj/**",
-          "incremental/test/**",
-          "**/includes/**"
+          "site/**"
         ]
       }
     ],
@@ -20,8 +19,7 @@
         ],
         "exclude": [
           "**/obj/**",
-          "incremental/test/**",
-          "**/includes/**"
+          "site/**"
         ]
       }
     ],
@@ -29,7 +27,9 @@
     "externalReference": [],
     "globalMetadata": {},
     "fileMetadata": {},
-    "template": [],
-    "dest": "incremental/test"
+    "template": [
+      null
+    ],
+    "dest": "site"
   }
 }

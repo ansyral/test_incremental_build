@@ -1,1 +1,1 @@
-# Welcome to test_incremental_build!
+# Index test file for Open Publishing
