@@ -28,6 +28,12 @@
       "url": "https://github.com/fenxu/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "testcrr/token",
+      "url": "https://github.com/fenxu/dependent_repo_20160527_token",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ]
 }
