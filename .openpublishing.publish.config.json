@@ -17,7 +17,7 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
-      "customized_template_paths": ["_plugins/CustomRules"]
+      "customized_template_paths": ["subfolder"]
     }
   ],
   "notification_subscribers": [],
@@ -31,8 +31,8 @@
       "branch_mapping": {}
     },
     {
-      "path_to_root": "_plugins",
-      "url": "https://github.com/Microsoft/csi-custom-Validation-rules",
+      "path_to_root": "subfolder",
+      "url": "https://github.com/ansyral/md_playground",
       "branch": "master",
       "branch_mapping": {}
     }
