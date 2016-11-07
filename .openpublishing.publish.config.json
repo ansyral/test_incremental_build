@@ -17,7 +17,7 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
-      "customized_template_paths": ["subfolder"]
+      "customized_template_paths": ["subfolder/subfolder"]
     }
   ],
   "notification_subscribers": [],
@@ -32,7 +32,7 @@
     },
     {
       "path_to_root": "subfolder",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
+      "url": "https://github.com/ansyral/md_playground",
       "branch": "master",
       "branch_mapping": {}
     }
