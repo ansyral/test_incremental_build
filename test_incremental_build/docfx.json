@@ -21,7 +21,7 @@
         "exclude": [
           "**/obj/**",
           "site/**",
-		"subfolder"
+		"test_incremental_build/subfolder"
         ]
       }
     ],
