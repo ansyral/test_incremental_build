@@ -32,7 +32,7 @@
     },
     {
       "path_to_root": "subfolder",
-      "url": "https://github.com/ansyral/md_playground",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
     }
