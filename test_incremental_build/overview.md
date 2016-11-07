@@ -14,3 +14,4 @@ ms.contentid: f92b9363-6b36-4576-98ad-6c2fbf09d536
 [test non existed link with bookmark](t.md#anc)
 
 This is fake context
+[Test illegal link path](illegal_path_%3Cillegal character%3E.html#b1)
