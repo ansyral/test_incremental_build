@@ -4,6 +4,7 @@ ms.technology: vs-devops-integrate
 title: XAML Build Overview | REST API Reference for Visual Studio Team Services and Team Foundation Server
 description: Work with xaml builds programmatically using the REST APIs for Visual Studio Team Services and Team Foundation Server.
 ms.contentid: f92b9363-6b36-4576-98ad-6c2fbf09d536
+uid: existeduid
 ---
 
 # Build (1.0)
@@ -17,3 +18,4 @@ This is fake context
 [Test illegal link path](illegal_path_%3Cillegal character%3E.html#b)
 @'nonexisteduid#anc'
 [test existed link with bookmark](index.md#anc)
+@'existeduid#anc'
