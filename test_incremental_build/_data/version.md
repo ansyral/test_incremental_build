@@ -1,1 +1,1 @@
-**api-version** = 5.1
+**api-version** = 5.2
