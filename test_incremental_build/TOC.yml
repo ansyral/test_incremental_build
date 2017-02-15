@@ -1,5 +1,4 @@
 - name: Index
   topicHref: overview.md
-  href: build/testtoc.md
 - name: Test
   href: build/testtoc.md
