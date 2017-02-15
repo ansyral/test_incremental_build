@@ -3,7 +3,8 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md",
+		"**/toc.yml"
         ],
         "exclude": [
 		  "_data/version.md",
